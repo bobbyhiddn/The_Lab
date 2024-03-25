@@ -1,0 +1,12 @@
+[submodule "Ansible_Lab"]
+	path = Ansible_Lab
+	url = https://github.com/bobbyhiddn/Ansible_Lab.git
+	branch = main
+[submodule "Terraform_Lab"]
+	path = Terraform_Lab
+	url = https://github.com/bobbyhiddn/Terraform_Lab.git
+	branch = main
+[submodule "K8_Lab"]
+	path = K8_Lab
+	url = https://github.com/bobbyhiddn/K8_Lab.git
+	branch = main
